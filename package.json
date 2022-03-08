@@ -1,0 +1,19 @@
+{
+  "name": "easybooks",
+  "version": "1.0.0",
+  "description": "One stop to find books easily on free or moderate price",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikitaNaredi/easyBooks.git"
+  },
+  "author": "Nikita Naredi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nikitaNaredi/easyBooks/issues"
+  },
+  "homepage": "https://github.com/nikitaNaredi/easyBooks#readme"
+}
